@@ -1,4 +1,4 @@
-# 🚀 Astrix Chatbot
+# 🚀 [Astrix Chatbot](https://huggingface.co/spaces/Sipra1304/Astrix)
 
 Welcome to the **Astrix Chatbot** project! Astrix is an astronaut-themed guide for Advaita, the annual techno-cultural fest of IIIT Bhubaneswar. This chatbot leverages data scraped from the Advaita website to answer your queries effectively. Let's dive in! 🌌
 
